@@ -4,7 +4,7 @@ A TensorFlow model that classifies ultrasound scans into **benign**, **malignant
 Includes preprocessing, a FastAPI inference API, a React interface, and a public demo for quick testing.
 
 ## 🌐 Live Demo  
-https://huggingface.co/spaces/YOURNAME/YOURSPACE  
+https://huggingface.co/spaces/samhitak10/ultrasound-demo
 
 ## 🖼 Model Result Preview
 <img width="1084" height="511" alt="image" src="https://github.com/user-attachments/assets/11f21cba-72c4-4892-a87d-549ef73a5793" />
